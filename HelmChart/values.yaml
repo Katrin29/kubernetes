@@ -1,2 +1,2 @@
-container: lolgg/cloud-fastapi:latest
+container: kate2939/k8sphp:latest
 replicaCount: 1
